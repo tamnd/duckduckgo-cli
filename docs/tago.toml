@@ -1,0 +1,10 @@
+title       = "duckduckgo"
+baseURL     = "https://duckduckgo-cli.tamnd.com/"
+description = "DuckDuckGo instant answers CLI"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/duckduckgo-cli"
